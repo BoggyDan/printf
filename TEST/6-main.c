@@ -8,7 +8,7 @@
 
 int main(void)
 {
-    _printf("Alx is making me great");
+    _printf("%s\n", "cool");
 
     return (0);
 }
